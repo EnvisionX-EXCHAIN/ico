@@ -1,0 +1,6 @@
+[submodule "MultiSigWallet"]
+	path = MultiSigWallet
+	url = https://github.com/gnosis/MultiSigWallet
+[submodule "ethester"]
+	path = ethester
+	url = git@github.com:EnvisionX/ethester.git
